@@ -1,7 +1,7 @@
 
 # ☕Café Menu Project
 
-This web application is designed to showcase a responsive café menu, providing a delightful experience for users on both desktop and mobile devices. Crafted with a mobile-first approach, the project aims to deliver a seamless and visually appealing interface using HTML and CSS.
+This web application is designed to showcase a responsive café menu, providing a delightful experience for users on both desktop and mobile devices. Developed with a mobile-first approach, the project aims to deliver a seamless and visually appealing interface using HTML and CSS.
 
 ## ⚡Features
 
