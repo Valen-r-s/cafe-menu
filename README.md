@@ -12,7 +12,7 @@ This web application is designed to showcase a responsive café menu, providing 
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/17K3HPTi-ocPxDu6F-V_M9oFoleaFgmXk/view)
+![app screeshot](https://github.com/Valen-r-s/cafe-menu/assets/137853819/e42d9291-9436-4158-b820-6fb39eea9a77)
 
 
 ## 👩🏼‍💻Authors
